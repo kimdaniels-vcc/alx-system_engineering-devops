@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x ./play_starwars
+chmod +x telnet towel.blinkenlights.nl ./play_starwars
