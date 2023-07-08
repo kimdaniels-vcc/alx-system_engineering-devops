@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ./add_exec_permission.sh
+chmod +x . /add_exec_permission.sh
